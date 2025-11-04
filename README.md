@@ -8,4 +8,4 @@ Memory: 16 GB
 
 Phreeqc simulation was achieved through the [PhreeqPy](https://www.phreeqpy.com/) and in particular with IPhreeqc interface without the need to run a COM server and therefore also works on non-Windows systems.
 
-For the complete list of python version and packages/libraries versions used in the .ipynb, refer to the [requirements.txt](requirements.txt) file.
+For the complete list of python version and packages/libraries versions used in the .ipynb, refer to the [requirements.txt](requirments.txt) file.
